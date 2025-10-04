@@ -2,3 +2,4 @@
 # this is 2 
 int a = 5 
 print(a)
+a = a + 5 
